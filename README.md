@@ -5,7 +5,7 @@
 
   The purpose of this project is to extract, transform, and load (hence, ETL) data related to crowdfunding using both Python and SQL. Pandas and Python are used to extract and transform raw data, and PostgreSQL and pgAdmin were used to load clean data that is ready for analysis.
   
-## Extract:
+## Results:
 
 A quick snapshot of the <a href= "https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Resources/crowdfunding.xlsx"> <b>crowdfunding.xlsx</b></a> data:
 </br></br>
@@ -19,7 +19,7 @@ A quick snapshot of the <a href= "https://github.com/ericyang91/Crowdfunding_ETL
 </p>
 </br>
 
-## Transform:
+## Summary:
 </br>
 Python and Pandas were used to tranform the raw data to a clean data. The python code to this work can be found <a href="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/ETL_Mini_Project_JYang.ipynb"> <b>here</b></a>.
 </br>
@@ -45,7 +45,7 @@ A quick snapshot of the <a href= "https://github.com/ericyang91/Crowdfunding_ETL
 </p>
 </br>
 
-## Load:
+## Alternatives:
 
 </br>
 <a href="https://app.quickdatabasediagrams.com/"> <b>QuickDBD</b></a> was used to model the data into an Entity Relationship Diagram. The table schema for the Entity Relationship Diagram can be found <a href="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Entity%20Relationship%20Diagram/QuickDBD-Free%20Diagram.sql"> <b>here</b></a>.
