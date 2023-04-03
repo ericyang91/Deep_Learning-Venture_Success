@@ -1,16 +1,21 @@
 # Deep Learning: Venture Success
-</br>
+<br>
 
 ## Purpose:
 
-  The purpose of this project is to extract, transform, and load (hence, ETL) data related to crowdfunding using both Python and SQL. Pandas and Python are used to extract and transform raw data, and PostgreSQL and pgAdmin were used to load clean data that is ready for analysis.
+  The purpose of this project is to create a binary classification model using a neural network to predicted if an organization will be successful after receiving funding. The model will then be evaluated for its accuracy with target accuracy level at 75%. If successful, the model can be used by organizations to select for funding promising venture applicants with the best chance of success.
+  
+  A quick snapshot of the data:
+  ![raw](https://github.com/ericyang91/Deep_Learning-Venture_Success/blob/main/Images/raw.jpg)
   
 ## Results:
 
-A quick snapshot of the <a href= "https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Resources/crowdfunding.xlsx"> <b>crowdfunding.xlsx</b></a> data:
+A quick snapshot of the data:
+![raw](https://github.com/ericyang91/Deep_Learning-Venture_Success/blob/main/Images/raw.jpg)
+A quick snapshot of the data:
 </br></br>
 <p align="center">
-  <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/raw2.jpg" alt="rawdata2"/>
+![raw](https://github.com/ericyang91/Deep_Learning-Venture_Success/blob/main/Images/raw.jpg)
 </p>
 A quick snapshot of the <a href= "https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Resources/contacts.xlsx"> <b>contacts.xlsx</b></a> data:
 </br></br>
