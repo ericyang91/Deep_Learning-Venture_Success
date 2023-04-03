@@ -46,5 +46,11 @@ All three optimization attempts did not lead to a significant change in the mode
 
 ## Languages and Libraries:
 
-`Python v.3.9.12`
-`Pandas v.1.4.2`
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Python](https://img.shields.io/badge/python-%3E%3D%203.6-blue.svg)](https://www.python.org/downloads/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.0.5-blue)](https://pandas.pydata.org/)
+[![SciPy](https://img.shields.io/badge/scipy-v1.4.1-blue)](https://www.scipy.org/)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-%3E%3D%202.0-orange)](https://www.tensorflow.org/)
+
+
+
