@@ -1,5 +1,5 @@
 # Deep Learning: Venture Success
-<br>
+ ![venture](https://github.com/ericyang91/Deep_Learning-Venture_Success/blob/main/Images/venture.jpg)
 
 ## Purpose:
 
